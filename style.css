@@ -1,0 +1,135 @@
+section.scroll-top {
+  position: relative;
+}
+
+#mission-target {
+  position: relative;
+  top: 20px;
+}
+#skills-target {
+  position: relative;
+  top: -65px;
+}
+#contact-target {
+  position: relative;
+  top: -65px;
+}
+
+/* Footer */
+span.navbar-text {
+  color: white;
+  margin: auto;
+}
+
+/* Icon hovers */
+#lnktin:hover {
+  color: #D15D47;
+}
+
+#mail:hover {
+  color: #D15D47;
+}
+
+#phone:hover {
+  color: #D15D47;
+}
+
+/* contact-section icons */
+div.contact {
+  padding: 10%;
+}
+
+
+/* mission-section image */
+img.col-6{
+  width: 45%;
+  height: 50vh;
+  object-position: center;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+hr {
+  margin-bottom: 5%;
+  border: 0;
+  height: 5px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(209, 93, 71), rgba(0, 0, 0, 0));
+}
+
+/* Section headers */
+h2{
+  color: white;
+  font-family: "Sarabun", sans-serif;
+  padding:3%;
+  font-size: 55px;
+  font-weight: 200;
+  text-align: center;
+}
+
+/* Tagline */
+h3 {
+  color: white;
+  font-size: 20px;
+  font-family: "Comfortaa", sans-serif;
+  padding: 3%;
+  font-weight: 300;
+}
+
+/* Name in hero-image*/
+h1.display-2 {
+  color: white;
+  font-family: "Comforter", cursive;
+  letter-spacing: 4px;
+  font-weight: 400;
+  font-size: 130px;
+}
+
+body {
+  background-color: #343a40;
+}
+
+section#contact-section {
+  color: white;
+  text-align: center;
+  font-size: 60px;
+  padding: 100px 0 100px;
+}
+
+section#skills-section {
+  color: #1D1D1D;
+  font-size: 18px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  padding: 100px 0 100px
+
+
+}
+
+section#mission-section {
+  color: white;
+  font-size: 25px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  padding: 100px 0 100px;
+}
+
+header#hero-section {
+  background-image: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,.7)), url("img/bkgrdIMG.jpeg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 75%, 25%;
+  width: 100%;
+  height: 80vh
+  color: white;
+  padding: 15%;
+  text-align: center;
+{
+
+
+
+
