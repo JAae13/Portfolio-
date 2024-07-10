@@ -69,7 +69,7 @@ h2{
 /* Tagline */
 h3 {
   color: white;
-  font-size: 25px;
+  font-size: 20px;
   font-family: "Comfortaa", sans-serif;
   padding: 3%;
   font-weight: 300;
@@ -80,7 +80,7 @@ h1.display-2 {
   color: white;
   font-family: "Comforter", cursive;
   letter-spacing: 4px;
-  font-weight: 400;
+  font-weight: 350;
   font-size: 150px;
 }
 
